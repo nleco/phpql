@@ -1,0 +1,22 @@
+{
+  "name": "nleco/phpql",
+  "description": "Tools for graphql on php with mysql",
+  "type": "library",
+  "require": {
+    "webonyx/graphql-php": "^14.11",
+    "illuminate/database": "^9.18",
+    "vlucas/phpdotenv": "^5.4"
+  },
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Sam Sanchez",
+      "email": "s.sanchez.g@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PHPQL\\": "src/PHPQL/"
+    }
+  }
+}

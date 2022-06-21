@@ -1,0 +1,7 @@
+{
+  "phpVersion": "7.4",
+  "embeddedLanguageFormatting": "off",
+  "tabWidth": 2,
+  "singleQuote": true,
+  "braceStyle": "1tbs"
+}
